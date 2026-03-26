@@ -1,5 +1,6 @@
 # SaLes-Analysis-Dashboard
 Excel dashboard project for data analysis and visualization using pivot tables, charts, and KPIs.
+
 📊 Sales Analysis Dashboard (Excel)
 
 Interactive sales dashboard built using Microsoft Excel to analyze performance, track KPIs, and generate business insights.
